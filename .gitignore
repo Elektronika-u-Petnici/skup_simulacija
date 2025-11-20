@@ -3,4 +3,5 @@ gerbers
 gerbers.zip
 *.lck
 *.raw
+*.log
 *.zip
